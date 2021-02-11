@@ -13,4 +13,8 @@
 #### - EEG Javascript Library (TBD)
 #### - Neurocity APIs and SKD (TBD)
 #### - Firebase
-### Team Members: Matt Caputo, Genevieve Minias, Jacob Nelson, Nehal Vora 
+### Team Members: 
+#### - Matt Caputo 
+#### - Genevieve Minias 
+#### - Jacob Nelson 
+#### - Nehal Vora 
