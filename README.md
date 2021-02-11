@@ -8,7 +8,7 @@
 #### - Includes an analysis/metrics tool (TBD)
 
 ### **Project Approach / Technologies / API**
-#### * Electron
+#### - Electron
 #### - Javascript 
 #### - React
 #### - Node.js
