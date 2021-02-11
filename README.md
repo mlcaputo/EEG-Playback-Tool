@@ -3,4 +3,4 @@
 ## *Project Title*
 ## Project Description
 ## Project Approach / Technologies / API
-## Team Members Matt Caputo
+## Team Members: Matt Caputo, Genevieve Minias, Jacob Nelson, Nehal Vora 
