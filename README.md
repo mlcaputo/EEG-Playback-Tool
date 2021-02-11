@@ -1,4 +1,4 @@
-# Team-4-Project
+# UA Capstone Project Team-4
 
 ## *EEG Playback Tool*
 ### Project Description
