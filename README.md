@@ -9,12 +9,12 @@
 
 ### **Project Approach / Technologies / API**
 #### * Electron
-#### * Javascript 
-#### * React
-#### * Node.js
-#### * EEG Javascript Library (TBD)
-#### * Neurocity APIs and SDK (TBD)
-#### * Firebase
+#### - Javascript 
+#### - React
+#### - Node.js
+#### - EEG Javascript Library (TBD)
+#### - Neurocity APIs and SDK (TBD)
+#### - Firebase
 
 ### **Team Members** 
 #### - Matt Caputo 
