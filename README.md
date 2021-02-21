@@ -17,7 +17,7 @@
  - Firebase
 
 ### **Project Use Case**
-> A user will log into our app. Once logged in, a user can choose between recording data emitted from their headset or emulator or selecting a dataset from their already saved data. Once the dataset is loaded into our app, a user can play back the data on a loop and pause the play back for inspection. A user can also choose to look at a list of all of their saved data sets and share certain ones with other users or make them publicly available. Eventually, a user can also use an analysis tool to assist them in evaluating metrics.
+> A user will log into our app. Once logged in, a user can select a dataset from their already saved data. Once the dataset is loaded into our app, a user can play back the data on a loop and pause the play back for inspection. A user can also choose to look at a list of all of their saved data sets and share certain ones with other users or make them publicly available. Eventually, a user can also use an analysis tool to assist them in evaluating metrics.
 
 ### **Team Members** 
  - Matt Caputo 
