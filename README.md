@@ -26,8 +26,8 @@
 
 
 ## Running Prototype
- npm install --global yarn
- npm install @neurosity/notion dotenv
- npm install @reach/router
- npm install 
- npm start 
+- npm install --global yarn
+- npm install @neurosity/notion dotenv
+- npm install @reach/router
+- npm install 
+- npm start 
