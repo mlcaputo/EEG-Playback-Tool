@@ -23,3 +23,11 @@
  - Genevieve Minias 
  - Jacob Nelson 
  - Nehal Vora 
+
+
+## Running Prototype
+npm install --global yarn
+npm install @neurosity/notion dotenv
+npm install @reach/router
+npm install 
+npm start 
