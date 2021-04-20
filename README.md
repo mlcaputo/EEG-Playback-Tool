@@ -29,5 +29,7 @@
 - npm install --global yarn
 - npm install @neurosity/notion dotenv
 - npm install @reach/router
+- npm install highcharts -- save
+- npm install react-highcharts --save-dev
 - npm install 
-- npm start 
+- npm run electron-dev 
